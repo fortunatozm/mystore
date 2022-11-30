@@ -1,0 +1,54 @@
+.head {
+  position: absolute;
+  width: 100%;
+  height: 101px;
+  left: 0px;
+  top: 0px;
+  background: #0F52BA;
+}
+
+.mks {
+  position: absolute;
+  left: 4.51%;
+  right: 86.6%;
+  top: 10.73%;
+  bottom: 92.97%;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 19px;
+  color: #FFFFFF;
+  mix-blend-mode: normal;
+}
+
+.sistemas {
+  position: absolute;
+  left: 5.46%;
+  right: 74.65%;
+  top: 35.39%;
+  /* margin-bottom: 91.31%; */
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 19px;
+  color: #FFFFFF;
+  mix-blend-mode: normal;
+}
+
+.cartLogo {
+  position: absolute;
+  width: 90px;
+  height: 45px;
+  left: 90%;
+  top: 25%;
+  background: #FFFFFF;
+  border-radius: 8px;
+}
+
+.bag {
+  margin-top: 15%;
+  display: inline-block;
+  margin-left: 10px;
+}
